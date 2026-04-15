@@ -1,0 +1,397 @@
+{
+  "storeName": "美髪革命CELESTE 大泉学園店 髪質改善/縮毛矯正/白髪染め/白髪ぼかし",
+  "storeId": "H000451928",
+  "date": "20260415",
+  "timeSlots": [
+    {
+      "time": "1000",
+      "timeFormatted": "10:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1030",
+      "timeFormatted": "10:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1100",
+      "timeFormatted": "11:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1130",
+      "timeFormatted": "11:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1200",
+      "timeFormatted": "12:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1230",
+      "timeFormatted": "12:30",
+      "reserveCount": 0,
+      "surplusCount": 2,
+      "totalSlots": 2
+    },
+    {
+      "time": "1300",
+      "timeFormatted": "13:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1330",
+      "timeFormatted": "13:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1400",
+      "timeFormatted": "14:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1430",
+      "timeFormatted": "14:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1500",
+      "timeFormatted": "15:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1530",
+      "timeFormatted": "15:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1600",
+      "timeFormatted": "16:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1630",
+      "timeFormatted": "16:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1700",
+      "timeFormatted": "17:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1730",
+      "timeFormatted": "17:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1800",
+      "timeFormatted": "18:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1830",
+      "timeFormatted": "18:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1900",
+      "timeFormatted": "19:00",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1930",
+      "timeFormatted": "19:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    }
+  ],
+  "stylists": [
+    {
+      "stylistId": "T001091882",
+      "name": "松永 恵相",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2000",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "0000",
+          "updateTimestamp": "20260322112732",
+          "frameCount": 20,
+          "message": "休日",
+          "isAllDay": true,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 20,
+      "reservedSlots": 0,
+      "blockedSlots": 20,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": false,
+      "inactiveSlots": 0
+    },
+    {
+      "stylistId": "T001091967",
+      "name": "天笠 誠也",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2000",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "0000",
+          "updateTimestamp": "20260318001308",
+          "frameCount": 20,
+          "message": "休日",
+          "isAllDay": true,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 20,
+      "reservedSlots": 0,
+      "blockedSlots": 20,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": false,
+      "inactiveSlots": 0
+    },
+    {
+      "stylistId": "T001091976",
+      "name": "大村 りか",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2000",
+      "isFree": false,
+      "reservations": [
+        {
+          "reserveId": "YG05304932",
+          "customerName": "アカダ リオナ 様",
+          "startTime": "1000",
+          "frameCount": 5,
+          "typeCode": "50",
+          "iconCount": 2,
+          "iconClasses": [
+            "mod_icon_53",
+            "mod_icon_19"
+          ],
+          "hasNewIcon": true,
+          "isSuspectedBlock": false
+        },
+        {
+          "reserveId": "BE64896617",
+          "customerName": "小林 智恵 様",
+          "startTime": "1300",
+          "frameCount": 5,
+          "typeCode": "50",
+          "iconCount": 6,
+          "iconClasses": [
+            "mod_icon_02",
+            "mod_icon_03",
+            "mod_icon_05",
+            "mod_icon_53",
+            "mod_icon_15",
+            "mod_icon_19"
+          ],
+          "hasNewIcon": true,
+          "isSuspectedBlock": false
+        },
+        {
+          "reserveId": "BE75255430",
+          "customerName": "巴 里絵 様",
+          "startTime": "1530",
+          "frameCount": 5,
+          "typeCode": "50",
+          "iconCount": 6,
+          "iconClasses": [
+            "mod_icon_03",
+            "mod_icon_05",
+            "mod_icon_52",
+            "mod_icon_53",
+            "mod_icon_15",
+            "mod_icon_19"
+          ],
+          "hasNewIcon": false,
+          "isSuspectedBlock": false
+        },
+        {
+          "reserveId": "BE72658089",
+          "customerName": "浦野 譲 様",
+          "startTime": "1800",
+          "frameCount": 4,
+          "typeCode": "50",
+          "iconCount": 5,
+          "iconClasses": [
+            "mod_icon_02",
+            "mod_icon_03",
+            "mod_icon_53",
+            "mod_icon_15",
+            "mod_icon_19"
+          ],
+          "hasNewIcon": true,
+          "isSuspectedBlock": false
+        }
+      ],
+      "blocks": [],
+      "totalWorkSlots": 20,
+      "reservedSlots": 19,
+      "blockedSlots": 0,
+      "emptySlots": 1,
+      "hasOverlap": false,
+      "isReceptionClosed": false,
+      "inactiveSlots": 0
+    },
+    {
+      "stylistId": "T001094857",
+      "name": "SONOE",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2000",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "0000",
+          "updateTimestamp": "20260331154854",
+          "frameCount": 20,
+          "message": "休日",
+          "isAllDay": true,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 20,
+      "reservedSlots": 0,
+      "blockedSlots": 20,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": false,
+      "inactiveSlots": 0
+    },
+    {
+      "stylistId": "T000613672",
+      "name": "CELESTE 大泉学園店",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2000",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [],
+      "totalWorkSlots": 20,
+      "reservedSlots": 0,
+      "blockedSlots": 0,
+      "emptySlots": 20,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 20
+    },
+    {
+      "stylistId": "T000674219",
+      "name": "Nao",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2000",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [],
+      "totalWorkSlots": 20,
+      "reservedSlots": 0,
+      "blockedSlots": 0,
+      "emptySlots": 20,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 20
+    },
+    {
+      "stylistId": "0000000000",
+      "name": "フリー",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2000",
+      "isFree": true,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "1000",
+          "updateTimestamp": "20260410120917",
+          "frameCount": 16,
+          "message": "予定あり",
+          "isAllDay": false,
+          "isHoliday": false
+        },
+        {
+          "startTime": "1800",
+          "updateTimestamp": "20260406112929",
+          "frameCount": 4,
+          "message": "予定あり",
+          "isAllDay": false,
+          "isHoliday": false
+        }
+      ],
+      "totalWorkSlots": 20,
+      "reservedSlots": 0,
+      "blockedSlots": 20,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": false,
+      "inactiveSlots": 0
+    }
+  ],
+  "summary": {
+    "totalWorkSlots": 140,
+    "totalBlockedFrames": 80,
+    "totalReservedFrames": 19,
+    "totalEmptySlots": 41,
+    "totalSuspectedBlockReservations": 0,
+    "totalInactiveSlots": 40,
+    "receptionClosedCount": 2,
+    "effectiveSlots": 60,
+    "realReservations": 19,
+    "vacancyRate": 0.6833333333333333,
+    "vacancyRatePercent": 68.3,
+    "overlapCount": 0,
+    "headerReserveTotal": 19,
+    "headerSurplusTotal": 21,
+    "headerTotal": 40
+  }
+}

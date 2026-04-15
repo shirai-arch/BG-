@@ -1,0 +1,526 @@
+{
+  "storeName": "美髪革命CELESTE 横浜元町店【セレスト】",
+  "storeId": "H000298719",
+  "date": "20260415",
+  "timeSlots": [
+    {
+      "time": "1000",
+      "timeFormatted": "10:00",
+      "reserveCount": 3,
+      "surplusCount": 0,
+      "totalSlots": 3
+    },
+    {
+      "time": "1030",
+      "timeFormatted": "10:30",
+      "reserveCount": 3,
+      "surplusCount": 0,
+      "totalSlots": 3
+    },
+    {
+      "time": "1100",
+      "timeFormatted": "11:00",
+      "reserveCount": 3,
+      "surplusCount": 0,
+      "totalSlots": 3
+    },
+    {
+      "time": "1130",
+      "timeFormatted": "11:30",
+      "reserveCount": 3,
+      "surplusCount": 0,
+      "totalSlots": 3
+    },
+    {
+      "time": "1200",
+      "timeFormatted": "12:00",
+      "reserveCount": 2,
+      "surplusCount": 0,
+      "totalSlots": 2
+    },
+    {
+      "time": "1230",
+      "timeFormatted": "12:30",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1300",
+      "timeFormatted": "13:00",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1330",
+      "timeFormatted": "13:30",
+      "reserveCount": 2,
+      "surplusCount": 0,
+      "totalSlots": 2
+    },
+    {
+      "time": "1400",
+      "timeFormatted": "14:00",
+      "reserveCount": 2,
+      "surplusCount": 0,
+      "totalSlots": 2
+    },
+    {
+      "time": "1430",
+      "timeFormatted": "14:30",
+      "reserveCount": 1,
+      "surplusCount": 1,
+      "totalSlots": 2
+    },
+    {
+      "time": "1500",
+      "timeFormatted": "15:00",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1530",
+      "timeFormatted": "15:30",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1600",
+      "timeFormatted": "16:00",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1630",
+      "timeFormatted": "16:30",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1700",
+      "timeFormatted": "17:00",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1730",
+      "timeFormatted": "17:30",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1800",
+      "timeFormatted": "18:00",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1830",
+      "timeFormatted": "18:30",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1900",
+      "timeFormatted": "19:00",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "1930",
+      "timeFormatted": "19:30",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "2000",
+      "timeFormatted": "20:00",
+      "reserveCount": 1,
+      "surplusCount": 0,
+      "totalSlots": 1
+    },
+    {
+      "time": "2030",
+      "timeFormatted": "20:30",
+      "reserveCount": 0,
+      "surplusCount": 0,
+      "totalSlots": 0
+    }
+  ],
+  "stylists": [
+    {
+      "stylistId": "T000318943",
+      "name": "マツシタ エミ",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": false,
+      "reservations": [
+        {
+          "reserveId": "YG17323872",
+          "customerName": "キクチユミコ 様",
+          "startTime": "1000",
+          "frameCount": 5,
+          "typeCode": "50",
+          "iconCount": 0,
+          "iconClasses": [],
+          "hasNewIcon": true,
+          "isSuspectedBlock": false
+        },
+        {
+          "reserveId": "YG29537878",
+          "customerName": "あそうめぐみ 様",
+          "startTime": "1330",
+          "frameCount": 5,
+          "typeCode": "50",
+          "iconCount": 0,
+          "iconClasses": [],
+          "hasNewIcon": true,
+          "isSuspectedBlock": false
+        },
+        {
+          "reserveId": "BE71742135",
+          "customerName": "湯浅 朋子 様",
+          "startTime": "1600",
+          "frameCount": 7,
+          "typeCode": "50",
+          "iconCount": 6,
+          "iconClasses": [
+            "mod_icon_02",
+            "mod_icon_03",
+            "mod_icon_05",
+            "mod_icon_53",
+            "mod_icon_15",
+            "mod_icon_19"
+          ],
+          "hasNewIcon": false,
+          "isSuspectedBlock": false
+        },
+        {
+          "reserveId": "BE73680240",
+          "customerName": "柏尾 安希子 様",
+          "startTime": "1930",
+          "frameCount": 2,
+          "typeCode": "50",
+          "iconCount": 4,
+          "iconClasses": [
+            "mod_icon_02",
+            "mod_icon_53",
+            "mod_icon_15",
+            "mod_icon_19"
+          ],
+          "hasNewIcon": false,
+          "isSuspectedBlock": false
+        }
+      ],
+      "blocks": [
+        {
+          "startTime": "1230",
+          "updateTimestamp": "20260412201605",
+          "frameCount": 2,
+          "message": "入金両替",
+          "isAllDay": false,
+          "isHoliday": false
+        }
+      ],
+      "totalWorkSlots": 21,
+      "reservedSlots": 19,
+      "blockedSlots": 2,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    },
+    {
+      "stylistId": "T000435358",
+      "name": "セレスト 元町",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "0000",
+          "updateTimestamp": "20260203180749",
+          "frameCount": 21,
+          "message": "休日",
+          "isAllDay": true,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 21,
+      "reservedSlots": 0,
+      "blockedSlots": 21,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    },
+    {
+      "stylistId": "T000529367",
+      "name": "Celeste 元町店",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "0000",
+          "updateTimestamp": "20260203180752",
+          "frameCount": 21,
+          "message": "休日",
+          "isAllDay": true,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 21,
+      "reservedSlots": 0,
+      "blockedSlots": 21,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    },
+    {
+      "stylistId": "T000559997",
+      "name": "ワニフチ ミカ",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": false,
+      "reservations": [
+        {
+          "reserveId": "BE74415584",
+          "customerName": "仲村 知世 様",
+          "startTime": "1000",
+          "frameCount": 4,
+          "typeCode": "50",
+          "iconCount": 6,
+          "iconClasses": [
+            "mod_icon_02",
+            "mod_icon_03",
+            "mod_icon_05",
+            "mod_icon_53",
+            "mod_icon_15",
+            "mod_icon_19"
+          ],
+          "hasNewIcon": false,
+          "isSuspectedBlock": false
+        },
+        {
+          "reserveId": "BE74598037",
+          "customerName": "高山 瑞佳 様",
+          "startTime": "1200",
+          "frameCount": 5,
+          "typeCode": "50",
+          "iconCount": 5,
+          "iconClasses": [
+            "mod_icon_02",
+            "mod_icon_03",
+            "mod_icon_53",
+            "mod_icon_15",
+            "mod_icon_19"
+          ],
+          "hasNewIcon": false,
+          "isSuspectedBlock": false
+        }
+      ],
+      "blocks": [
+        {
+          "startTime": "1500",
+          "updateTimestamp": "20260313173805",
+          "frameCount": 3,
+          "message": "予定あり",
+          "isAllDay": false,
+          "isHoliday": false
+        },
+        {
+          "startTime": "1630",
+          "updateTimestamp": "20260313173805",
+          "frameCount": 8,
+          "message": "ワニフチ",
+          "isAllDay": false,
+          "isHoliday": false
+        }
+      ],
+      "totalWorkSlots": 21,
+      "reservedSlots": 9,
+      "blockedSlots": 11,
+      "emptySlots": 1,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    },
+    {
+      "stylistId": "T000809373",
+      "name": "クドウ シオリ",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "0000",
+          "updateTimestamp": "20260203180754",
+          "frameCount": 21,
+          "message": "休日",
+          "isAllDay": true,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 21,
+      "reservedSlots": 0,
+      "blockedSlots": 21,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    },
+    {
+      "stylistId": "T000811587",
+      "name": "タテノ ハルカ",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": false,
+      "reservations": [
+        {
+          "reserveId": "YG18145255",
+          "customerName": "イイマカズチカ 様",
+          "startTime": "1000",
+          "frameCount": 4,
+          "typeCode": "50",
+          "iconCount": 0,
+          "iconClasses": [],
+          "hasNewIcon": false,
+          "isSuspectedBlock": false
+        }
+      ],
+      "blocks": [
+        {
+          "startTime": "1000",
+          "updateTimestamp": "20260414174623",
+          "frameCount": 4,
+          "message": "夢シャン希望",
+          "isAllDay": false,
+          "isHoliday": false
+        },
+        {
+          "startTime": "1200",
+          "updateTimestamp": "20260407195218",
+          "frameCount": 17,
+          "message": "休日",
+          "isAllDay": false,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 21,
+      "reservedSlots": 4,
+      "blockedSlots": 21,
+      "emptySlots": 0,
+      "hasOverlap": true,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    },
+    {
+      "stylistId": "T000854237",
+      "name": "マエハナ ヤスコ",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "0000",
+          "updateTimestamp": "20260307191552",
+          "frameCount": 21,
+          "message": "休日",
+          "isAllDay": true,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 21,
+      "reservedSlots": 0,
+      "blockedSlots": 21,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    },
+    {
+      "stylistId": "T001105761",
+      "name": "亜月",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": false,
+      "reservations": [],
+      "blocks": [
+        {
+          "startTime": "0000",
+          "updateTimestamp": "20260407165730",
+          "frameCount": 21,
+          "message": "休日",
+          "isAllDay": true,
+          "isHoliday": true
+        }
+      ],
+      "totalWorkSlots": 21,
+      "reservedSlots": 0,
+      "blockedSlots": 21,
+      "emptySlots": 0,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    },
+    {
+      "stylistId": "0000000000",
+      "name": "フリー",
+      "capacity": 1,
+      "openTime": "1000",
+      "closeTime": "2030",
+      "isFree": true,
+      "reservations": [],
+      "blocks": [],
+      "totalWorkSlots": 21,
+      "reservedSlots": 0,
+      "blockedSlots": 0,
+      "emptySlots": 21,
+      "hasOverlap": false,
+      "isReceptionClosed": true,
+      "inactiveSlots": 1
+    }
+  ],
+  "summary": {
+    "totalWorkSlots": 189,
+    "totalBlockedFrames": 139,
+    "totalReservedFrames": 32,
+    "totalEmptySlots": 22,
+    "totalSuspectedBlockReservations": 0,
+    "totalInactiveSlots": 9,
+    "receptionClosedCount": 9,
+    "effectiveSlots": 50,
+    "realReservations": 32,
+    "vacancyRate": 0.44,
+    "vacancyRatePercent": 44,
+    "overlapCount": 1,
+    "headerReserveTotal": 32,
+    "headerSurplusTotal": 1,
+    "headerTotal": 33
+  }
+}
