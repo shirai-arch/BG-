@@ -16,6 +16,7 @@ ROW_OFFSETS = {
     '売上':    1,
     '稼働時間': 2,
     '客単価':  3,
+    '空き枠率': 4,
 }
 
 
@@ -116,12 +117,13 @@ def update_spreadsheet(data, year, month):
 
         print(f"  ✓ {name} → {row_idx + 1}行目")
 
-        # 4指標（生産性・売上・稼働時間・客単価）を書き込む
+        # 5指標（生産性・売上・稼働時間・客単価・空き枠率）を書き込む
         metrics = {
             '生産性':  stylist.get('生産性'),
             '売上':    stylist.get('売上'),
             '稼働時間': stylist.get('稼働時間'),
             '客単価':  stylist.get('客単価'),
+            '空き枠率': stylist.get('空き枠率'),
         }
 
         for metric, offset in ROW_OFFSETS.items():

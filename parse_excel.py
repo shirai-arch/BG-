@@ -98,6 +98,7 @@ def parse_daily_report(filepath):
     col_客単価  = find_col(ws, header_row_idx, ['客単価'])
     col_新規数  = find_col(ws, header_row_idx, ['新規数合計', '新規数'])
     col_指名率  = find_col(ws, header_row_idx, ['指名\n比率', '指名比率'])
+    col_空き枠率 = find_col(ws, header_row_idx, ['空き枠率', '空き率', '空枠率'])
 
     # シフト時間と勤務時間が近接している場合、より右の列（勤務時間）を使う
     col_シフト = find_col(ws, header_row_idx, ['シフト時間', '勤務予定時間'])
@@ -142,6 +143,7 @@ def parse_daily_report(filepath):
             '客単価':  get(col_客単価),
             '新規数':  get(col_新規数),
             '指名率':  get(col_指名率),
+            '空き枠率': get(col_空き枠率),
         }
 
         # 売上が0またはNoneのスタイリストはスキップ
